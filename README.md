@@ -128,7 +128,7 @@ cd kani-proofs && cargo kani --lib
 |-----------|-------------|
 | [percolator](https://github.com/winstar/percolator) | Core risk engine crate (Rust) |
 | [percolator-prog](https://github.com/winstar/percolator-prog) | Solana on-chain program (wrapper) |
-| [percolator-matcher](https://github.com/winstar/percolator-matcher) | Reference matcher program for LP pricing |
+| [percolator-match](https://github.com/winstar/percolator-match) | Reference matcher program for LP pricing |
 | [percolator-sdk](https://github.com/winstar/percolator-sdk) | TypeScript SDK for client integration |
 | [percolator-ops](https://github.com/winstar/percolator-ops) | Operations dashboard |
 | [percolator-mobile](https://github.com/winstar/percolator-mobile) | Solana Seeker mobile trading app |
