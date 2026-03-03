@@ -1,6 +1,6 @@
 # percolator-stake
 
-Standalone Insurance LP staking program for [Percolator](https://github.com/aeyakovenko/percolator) — the permissionless perpetual futures engine on Solana.
+Standalone Insurance LP staking program for [Percolator](https://github.com/winstar/percolator) — the permissionless perpetual futures engine on Solana.
 
 ## Architecture
 
@@ -126,13 +126,13 @@ cd kani-proofs && cargo kani --lib
 
 | Repository | Description |
 |-----------|-------------|
-| [percolator](https://github.com/dcccrypto/percolator) | Core risk engine crate (Rust) |
-| [percolator-prog](https://github.com/dcccrypto/percolator-prog) | Solana on-chain program (wrapper) |
-| [percolator-matcher](https://github.com/dcccrypto/percolator-matcher) | Reference matcher program for LP pricing |
-| [percolator-sdk](https://github.com/dcccrypto/percolator-sdk) | TypeScript SDK for client integration |
-| [percolator-ops](https://github.com/dcccrypto/percolator-ops) | Operations dashboard |
-| [percolator-mobile](https://github.com/dcccrypto/percolator-mobile) | Solana Seeker mobile trading app |
-| [percolator-launch](https://github.com/dcccrypto/percolator-launch) | Full-stack launch platform (monorepo) |
+| [percolator](https://github.com/winstar/percolator) | Core risk engine crate (Rust) |
+| [percolator-prog](https://github.com/winstar/percolator-prog) | Solana on-chain program (wrapper) |
+| [percolator-matcher](https://github.com/winstar/percolator-matcher) | Reference matcher program for LP pricing |
+| [percolator-sdk](https://github.com/winstar/percolator-sdk) | TypeScript SDK for client integration |
+| [percolator-ops](https://github.com/winstar/percolator-ops) | Operations dashboard |
+| [percolator-mobile](https://github.com/winstar/percolator-mobile) | Solana Seeker mobile trading app |
+| [percolator-launch](https://github.com/winstar/percolator-launch) | Full-stack launch platform (monorepo) |
 
 ## License
 
